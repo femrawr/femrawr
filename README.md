@@ -12,6 +12,7 @@
 - JavaScript
 - C#
 - C++
+- Rust (still learning)
 
 Contact me on discord: `femrawr`
 
