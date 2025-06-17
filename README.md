@@ -14,7 +14,7 @@
 - C++
 - Rust (still learning)
 
-Contact me on discord: `femrawr`
+Contact me on discord: `termsofchoco`
 
 <details>
    <summary>My GitHub Stats</summary>
