@@ -12,7 +12,7 @@
 - JavaScript
 - C#
 - C++
-- Rust (still learning)
+- Rust
 
 Contact me on discord: `termsofchoco`
 
